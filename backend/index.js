@@ -21,6 +21,7 @@ app.use(
   cors({
     origin: "https://cypher-fullstack-assingment.vercel.app",
     credentials: true,
+    methods: "*", // Allows all HTTP methods (GET, POST, PUT, DELETE, etc.)
   })
 );
 

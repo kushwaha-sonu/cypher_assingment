@@ -67,3 +67,8 @@ npm start: Starts the backend server.
 Frontend
 npm run dev: Starts the frontend development server.
 npm run build: Builds the frontend for production.
+
+
+
+![image](https://github.com/user-attachments/assets/7a956e29-be20-4e31-8294-929d3e2cf9bc)
+

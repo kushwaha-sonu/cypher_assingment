@@ -7,7 +7,7 @@ export default defineConfig({
   server: {
     proxy: {
       '/api': {
-        target: 'https://cypher-assingment.vercel.app',
+        target: 'http://localhost:4000',
         secure: false,
       },
     },
